@@ -1,0 +1,279 @@
+
+> taskbox@0.2.0 build-storybook
+> ng run taskbox:build-storybook --output-dir /var/folders/cy/nctg35gd4nz2fc20zd3f48m80000gn/T/chromatic--51376-NxYqAmhA9CL4
+
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.23
+
+TypeScript version used by Compodoc : 5.2.2
+
+TypeScript version of current project : 5.2.2
+
+Node.js version : v22.5.1
+
+Operating system : macOS Unknown
+
+[08:11:08] No configuration file found, switching to CLI flags.
+[08:11:08] Using tsconfig file : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/.storybook/tsconfig.json
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/.storybook/preview.ts
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/favicon.ico
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/index.html
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/main.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/polyfills.ts
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/styles.css
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/app.component.css
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/app.component.html
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/app.component.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/app.module.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/environments/environment.prod.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/environments/environment.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Button.stories.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Header.stories.ts
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Introduction.mdx
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Page.stories.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/User.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/button.component.ts
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/button.css
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/header.component.ts
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/header.css
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/page.component.ts
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/page.css
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/models/task.model.ts
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/icon/percolate.eot
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/icon/percolate.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/icon/percolate.ttf
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/assets/icon/percolate.woff
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/assets/code-brackets.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/assets/colors.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/assets/comments.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/assets/direction.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/assets/flow.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/assets/plugin.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/assets/repo.svg
+[08:11:08] Excluding      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/assets/stackalt.svg
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/inbox-screen/inbox-screen.component.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/pure-inbox-screen/pure-inbox-screen.component.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/pure-inbox-screen/pure-inbox-screen.stories.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/task-list/task-list.component.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/task/task.component.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/task/task.module.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/task/task.stories.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/pure-task-list/pure-task-list.component.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/pure-task-list/pure-task-list.stories.ts
+[08:11:08] Including      : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/state/task/task.state.ts
+[08:11:08] Searching package.json file
+[08:11:08] package.json file found
+[08:11:08] Processing package.json dependencies
+[08:11:08] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[08:11:08] README.md file found
+[08:11:08] Error during /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/CHANGELOG read
+[08:11:08] Continuing without CHANGELOG.md file
+[08:11:08] Error during /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/CONTRIBUTING read
+[08:11:08] Continuing without CONTRIBUTING.md file
+[08:11:08] LICENSE.md file found
+[08:11:08] Error during /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/TODO read
+[08:11:08] Continuing without TODO.md file
+[08:11:08] Get dependencies data
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/.storybook/preview.ts
+[08:11:08] found          : preview
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/main.ts
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/polyfills.ts
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/app.component.ts
+[08:11:08] found          : AppComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/app.module.ts
+[08:11:08] found          : AppModule
+[08:11:08]                : - imports:
+[08:11:08]                : 	- BrowserModule
+[08:11:08]                : 	- TaskModule
+[08:11:08]                : 	- NgxsModule
+[08:11:08]                : 	- NgxsReduxDevtoolsPluginModule
+[08:11:08]                : 	- NgxsLoggerPluginModule
+[08:11:08]                : - declarations:
+[08:11:08]                : 	- AppComponent
+[08:11:08]                : 	- InboxScreenComponent
+[08:11:08]                : 	- PureInboxScreenComponent
+[08:11:08]                : - bootstrap:
+[08:11:08]                : 	- AppComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/environments/environment.prod.ts
+[08:11:08] found          : environment
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/environments/environment.ts
+[08:11:08] found          : environment
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Button.stories.ts
+[08:11:08] found          : meta
+[08:11:08] found          : Story
+[08:11:08] found          : Primary
+[08:11:08] found          : Secondary
+[08:11:08] found          : Large
+[08:11:08] found          : Small
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Header.stories.ts
+[08:11:08] found          : meta
+[08:11:08] found          : Story
+[08:11:08] found          : LoggedIn
+[08:11:08] found          : LoggedOut
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Page.stories.ts
+[08:11:08] found          : meta
+[08:11:08] found          : Story
+[08:11:08] found          : LoggedOut
+[08:11:08] found          : LoggedIn
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/User.ts
+[08:11:08] found          : User
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/button.component.ts
+[08:11:08] found          : ButtonComponent
+[08:11:08]                : - imports:
+[08:11:08]                : 	- CommonModule
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/header.component.ts
+[08:11:08] found          : HeaderComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/page.component.ts
+[08:11:08] found          : PageComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/models/task.model.ts
+[08:11:08] found          : Task
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/inbox-screen/inbox-screen.component.ts
+[08:11:08] found          : InboxScreenComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/pure-inbox-screen/pure-inbox-screen.component.ts
+[08:11:08] found          : PureInboxScreenComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/pure-inbox-screen/pure-inbox-screen.stories.ts
+[08:11:08] found          : meta
+[08:11:08] found          : Story
+[08:11:08] found          : Default
+[08:11:08] found          : Error
+[08:11:08] found          : WithInteractions
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/task-list/task-list.component.ts
+[08:11:08] found          : TaskListComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/task/task.component.ts
+[08:11:08] found          : TaskComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/task/task.module.ts
+[08:11:08] found          : TaskModule
+[08:11:08]                : - imports:
+[08:11:08]                : 	- CommonModule
+[08:11:08]                : 	- NgxsModule
+[08:11:08]                : - exports:
+[08:11:08]                : 	- TaskComponent
+[08:11:08]                : 	- TaskListComponent
+[08:11:08]                : - declarations:
+[08:11:08]                : 	- TaskComponent
+[08:11:08]                : 	- TaskListComponent
+[08:11:08]                : 	- PureTaskListComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/task/task.stories.ts
+[08:11:08] found          : actionsData
+[08:11:08] found          : meta
+[08:11:08] found          : Story
+[08:11:08] found          : Default
+[08:11:08] found          : Pinned
+[08:11:08] found          : Archived
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/pure-task-list/pure-task-list.component.ts
+[08:11:08] found          : PureTaskListComponent
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/pure-task-list/pure-task-list.stories.ts
+[08:11:08] found          : meta
+[08:11:08] found          : Story
+[08:11:08] found          : Default
+[08:11:08] found          : WithPinnedTasks
+[08:11:08] found          : Loading
+[08:11:08] found          : Empty
+[08:11:08] parsing        : /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/state/task/task.state.ts
+[08:11:08] found          : actions
+[08:11:08] found          : ArchiveTask
+[08:11:08] found          : PinTask
+[08:11:08] found          : AppError
+[08:11:08] found          : defaultTasks
+[08:11:08] found          : TaskStateModel
+[08:11:08] found          : TasksState
+[08:11:08] -------------------
+[08:11:08] Project statistics 
+[08:11:08] - files      : 26
+[08:11:08] - module     : 2
+[08:11:08] - component  : 9
+[08:11:08] - injectable : 1
+[08:11:08] - class      : 3
+[08:11:08] - interface  : 3
+[08:11:08] -------------------
+[08:11:08] Prepare components
+[08:11:08]  ButtonComponent has styleUrls, include them
+[08:11:08]  HeaderComponent has styleUrls, include them
+[08:11:08]  PageComponent has styleUrls, include them
+[08:11:08] Prepare modules
+[08:11:08] Prepare injectables
+[08:11:08] Prepare classes
+[08:11:08] Prepare interfaces
+[08:11:08] Prepare miscellaneous
+[08:11:08] Process documentation coverage report
+[08:11:08] Generating documentation in export format json
+[08:11:08] Documentation generated in ./ in 0.216 seconds
+info => Cleaning outputDir: /var/folders/cy/nctg35gd4nz2fc20zd3f48m80000gn/T/chromatic--51376-NxYqAmhA9CL4
+
+info => Loading presets
+info => Building manager..
+info => Manager built (309 ms)
+info => Building preview..
+info => Copying static files: /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/node_modules/@storybook/manager/static at /var/folders/cy/nctg35gd4nz2fc20zd3f48m80000gn/T/chromatic--51376-NxYqAmhA9CL4/sb-common-assets
+info Using Babel compiler
+info Addon-docs: using MDX2
+info => Using implicit CSS loaders
+info => Using angular browser target options from "taskbox:build"
+info => Using angular project with "tsConfig:/Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/.storybook/tsconfig.json"
+info => Using default Webpack5 setup
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/app/components/inbox-screen/inbox-screen.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/polyfills.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Button.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Header.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/Page.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/User.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/button.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/header.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/betancourtyeison/Development/Cursos/Angular Storybook/taskbox/src/stories/page.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   493.1f797d15.iframe.bundle.js (816 KiB)
+WARN   433.bc92d74f.iframe.bundle.js (827 KiB)
+WARN   841.2ddd4272.iframe.bundle.js (583 KiB)
+WARN   117.924e17c1.iframe.bundle.js (2.53 MiB)
+WARN   502.95c4f31d.iframe.bundle.js (887 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (2.64 MiB)
+WARN       runtime~main.b62383a8.iframe.bundle.js
+WARN       117.924e17c1.iframe.bundle.js
+WARN       main.72b66c21c40c5a5549a1.css
+WARN       main.18d2af7d.iframe.bundle.js
+WARN 
+info => Preview built (25 s)
+info => Output directory: /var/folders/cy/nctg35gd4nz2fc20zd3f48m80000gn/T/chromatic--51376-NxYqAmhA9CL4
